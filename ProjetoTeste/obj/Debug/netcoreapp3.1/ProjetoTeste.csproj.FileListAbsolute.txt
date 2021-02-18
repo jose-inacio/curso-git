@@ -1,0 +1,13 @@
+C:\Users\Inacio\Documents\Work Curso\ProjetoTeste\ProjetoTeste\bin\Debug\netcoreapp3.1\ProjetoTeste.exe
+C:\Users\Inacio\Documents\Work Curso\ProjetoTeste\ProjetoTeste\bin\Debug\netcoreapp3.1\ProjetoTeste.deps.json
+C:\Users\Inacio\Documents\Work Curso\ProjetoTeste\ProjetoTeste\bin\Debug\netcoreapp3.1\ProjetoTeste.runtimeconfig.json
+C:\Users\Inacio\Documents\Work Curso\ProjetoTeste\ProjetoTeste\bin\Debug\netcoreapp3.1\ProjetoTeste.runtimeconfig.dev.json
+C:\Users\Inacio\Documents\Work Curso\ProjetoTeste\ProjetoTeste\bin\Debug\netcoreapp3.1\ProjetoTeste.dll
+C:\Users\Inacio\Documents\Work Curso\ProjetoTeste\ProjetoTeste\bin\Debug\netcoreapp3.1\ProjetoTeste.pdb
+C:\Users\Inacio\Documents\Work Curso\ProjetoTeste\ProjetoTeste\obj\Debug\netcoreapp3.1\ProjetoTeste.csprojAssemblyReference.cache
+C:\Users\Inacio\Documents\Work Curso\ProjetoTeste\ProjetoTeste\obj\Debug\netcoreapp3.1\ProjetoTeste.AssemblyInfoInputs.cache
+C:\Users\Inacio\Documents\Work Curso\ProjetoTeste\ProjetoTeste\obj\Debug\netcoreapp3.1\ProjetoTeste.AssemblyInfo.cs
+C:\Users\Inacio\Documents\Work Curso\ProjetoTeste\ProjetoTeste\obj\Debug\netcoreapp3.1\ProjetoTeste.csproj.CoreCompileInputs.cache
+C:\Users\Inacio\Documents\Work Curso\ProjetoTeste\ProjetoTeste\obj\Debug\netcoreapp3.1\ProjetoTeste.dll
+C:\Users\Inacio\Documents\Work Curso\ProjetoTeste\ProjetoTeste\obj\Debug\netcoreapp3.1\ProjetoTeste.pdb
+C:\Users\Inacio\Documents\Work Curso\ProjetoTeste\ProjetoTeste\obj\Debug\netcoreapp3.1\ProjetoTeste.genruntimeconfig.cache
